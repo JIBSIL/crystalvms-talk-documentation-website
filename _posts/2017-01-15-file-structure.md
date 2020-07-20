@@ -8,7 +8,7 @@ categories:
 resources:
   - name: Source code
     link: https://github.com/CloudCannon/bakery-store/tree/structure
-type: Post
+type: Document
 set: getting-started
 set_order: 2
 ---
