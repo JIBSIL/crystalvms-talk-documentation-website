@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: CrystalVMs Talk Documentation
+title: CrystalVMs Talk
 url: "https://orange-ape.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -10,7 +10,7 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Knowledgebase.
 author:
   name:
   email:
