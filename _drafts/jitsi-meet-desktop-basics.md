@@ -1,9 +1,9 @@
 ---
 date:
 title: Jitsi Meet Desktop Basics
-categories:
+categories: video
 description:
-type: Document
+type: Video
 ---
 
 Jitsi Meet Desktop Basics (does not include whiteboard in tutorial).
