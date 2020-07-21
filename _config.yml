@@ -10,15 +10,15 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledgebase.
+description: Knowledgebase
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Base Template
+  name: CrystalVMs Talk Knowledgebase
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
+    - https://meet.crystalvms.com
 
 # -----
 # Build
