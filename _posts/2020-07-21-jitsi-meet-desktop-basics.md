@@ -1,5 +1,5 @@
 ---
-date: 2020-07-21 16:47:55
+date: 2020-07-21 16:47:00
 title: Jitsi Meet Desktop Basics
 categories:
   - videos
@@ -10,5 +10,6 @@ set: getting-started
 set_order: 1
 ---
 
+## Getting Started
 
 Jitsi Meet Desktop Basics (does not include whiteboard in tutorial).
