@@ -2,7 +2,7 @@
 date: 2020-07-21 20:29:00
 title: Join a Meeting
 categories:
-  - Getting Started (Desktop)
+  - Getting Started
 description: How to join a meeting on CrystalVMs Talk.
 type: Document
 ---
