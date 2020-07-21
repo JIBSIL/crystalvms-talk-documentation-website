@@ -1,7 +1,8 @@
 ---
-date:
+date: 2020-07-21 16:47:55
 title: Jitsi Meet Desktop Basics
-categories: video
+categories:
+  - video
 description:
 type: Video
 ---
