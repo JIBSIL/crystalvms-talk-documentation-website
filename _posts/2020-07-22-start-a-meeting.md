@@ -9,4 +9,4 @@ type: Document
 
 ## How to start a CrystalVMs Talk meeting on a computer
 
-1. First, go to&nbsp;[...](meet.crystalvms.com){: target="_blank"}&nbsp;and&nbsp;
+1. First, go to&nbsp;[meet.crystalvms.com](meet.crystalvms.com){: target="_blank"}&nbsp;and&nbsp;
