@@ -2,6 +2,7 @@
 date: 2020-08-03 17:49:00
 title: How to Join a Meeting
 categories:
+  - Getting Started
 description:
 type: Document
 ---
